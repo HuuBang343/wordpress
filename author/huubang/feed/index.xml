@@ -12,7 +12,7 @@
 	<atom:link href="https://huubang343.github.io/wordpress/author/huubang/feed/" rel="self" type="application/rss+xml" />
 	<link>https://huubang343.github.io/wordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Mon, 03 Oct 2022 02:53:20 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 11 Oct 2022 12:04:22 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,13 +20,28 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
+		<title>demo</title>
+		<link>https://huubang343.github.io/wordpress/2022/10/10/demo/</link>
+		
+		<dc:creator><![CDATA[HuuBang]]></dc:creator>
+		<pubDate>Mon, 10 Oct 2022 02:54:49 +0000</pubDate>
+				<guid isPermaLink="false">https://huubang343.github.io/wordpress/?post_type=elementor_library&#038;p=325</guid>
+
+					<description><![CDATA[Content Area]]></description>
+										<content:encoded><![CDATA[<div class="elementor-theme-builder-content-area">Content Area</div>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Chào tất cả mọi người!</title>
 		<link>https://huubang343.github.io/wordpress/2022/09/07/chao-moi-nguoi/</link>
 					<comments>https://huubang343.github.io/wordpress/2022/09/07/chao-moi-nguoi/#comments</comments>
 		
 		<dc:creator><![CDATA[HuuBang]]></dc:creator>
 		<pubDate>Wed, 07 Sep 2022 10:52:29 +0000</pubDate>
-				<guid isPermaLink="false">https://huubang343.github.io/wordpress/?p=1</guid>
+				<category><![CDATA[Chưa phân loại]]></category>
+		<guid isPermaLink="false">https://huubang343.github.io/wordpress/?p=1</guid>
 
 					<description><![CDATA[Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!]]></description>
 										<content:encoded><![CDATA[
