@@ -11,11 +11,11 @@
 	<atom:link href="https://huubang343.github.io/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://huubang343.github.io/wordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Mon, 17 Oct 2022 16:02:16 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 18 Oct 2022 00:47:53 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
 </channel>
 </rss>
